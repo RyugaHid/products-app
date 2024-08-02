@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/products-app/static/js/main.27be3918.js",
+    "index.html": "/products-app/index.html",
+    "static/media/logo.svg": "/products-app/static/media/logo.c63828bc56ad68572443e656512e7b32.svg",
+    "main.27be3918.js.map": "/products-app/static/js/main.27be3918.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.27be3918.js"
+  ]
+}
